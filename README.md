@@ -1,2 +1,2 @@
-# CAlCULADORA
+# CALCULADORA
 Practica de la calculadora
