@@ -1,0 +1,124 @@
+	{
+	"menu":[
+		{
+			"nombre":"Hamburgesa",
+			"descripcion":"Es una con carne y papas",
+			"precio":100,
+			"imagen":"https://media.istockphoto.com/id/1206323282/es/foto/hamburguesa-jugosa-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=r2mLaVFZxtRk4MeKpdQLtwTkcctyOpGEP-OxPeyo4_c="
+		},
+		{
+			"nombre":"Tacos",
+			"descripcion":"Tiene queso,carne,pina",
+			"precio":110,
+			"imagen":"https://th.bing.com/th/id/R.0b544965b6c50b52743bfcd16027d629?rik=56XnKDAJHxZE4Q&pid=ImgRaw&r=0"
+		},
+		{
+			"nombre":"Sincronizada",
+			"descripcion":"Tiene queso,carne,",
+			"precio":120,
+			"imagen":"https://img-global.cpcdn.com/steps/440d039e136762dc/160x128cq70/foto-del-paso-1-de-la-receta-sincronizada-de-carne-asada.jpg"
+		},
+		{
+			"nombre":"Hog dogs",
+			"descripcion":"Tiene salchicha,carne,chili",
+			"precio":50,
+			"imagen":"https://www.persnicketyplates.com/wp-content/uploads/2021/05/crockpot-hot-dog-chili-SQUARE.jpg"
+		},
+		{
+			"nombre":"Torta",
+			"descripcion":"Tiene lechuga,carne,aguacate",
+			"precio":60,
+			"imagen":"https://scontent.fntr10-1.fna.fbcdn.net/v/t1.6435-9/46739344_1906233246158211_3227429406230183936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHeG2KcgCY0oLrgq0-elYyF88rFSwpjtobzysVLCmO2hqzHwlZ_J98MvPpssm00pMI&_nc_ohc=i8rll_mERQUAX84TLTV&_nc_ht=scontent.fntr10-1.fna&oh=00_AfAcJG7fhd3gHIa2QHyLSRu2gHVfjVJeEQeRFYR-Jv81_A&oe=641AA744"
+		},
+		{
+			"nombre":"Papa rellena",
+			"descripcion":"Tiene queso,carne,mantequilla",
+			"precio":100,
+			"imagen":"https://img-global.cpcdn.com/steps/440d039e136762dc/160x128cq70/foto-del-paso-1-de-la-receta-sincronizada-de-carne-asada.jpg"
+		},
+		{
+			"nombre":"Nuggets",
+			"descripcion":"Tiene pollo",
+			"precio":90,
+			"imagen":"https://th.bing.com/th/id/R.55926641a5c9a76edadfe62cc8ef46db?rik=aWRmwFyRvo%2bLCw&pid=ImgRaw&r=0"
+		},
+		{
+			"nombre":"Pizza",
+			"descripcion":"Tiene queso,peperoni,tomate",
+			"precio":100,
+			"imagen":"https://th.bing.com/th/id/R.b0c50219d70a6a066aba89daf24b28f4?rik=BUBJxN6%2f09PolQ&pid=ImgRaw&r=0"
+		},
+		{
+			"nombre":"Papas fritas",
+			"descripcion":"Tiene papas",
+			"precio":50,
+			"imagen":"https://th.bing.com/th/id/R.0dde7ad1253308de5434ffc4f2191b25?rik=0npDu%2fIUFCpc0w&pid=ImgRaw&r=0"
+		},
+		{
+			"nombre":"Pollo frito",
+			"descripcion":"Tiene pollo",
+			"precio":160,
+			"imagen":"https://th.bing.com/th/id/R.1c592568ef9fbfd69654251d43c6a79d?rik=aHBGah%2f%2fZVfo5w&pid=ImgRaw&r=0"
+		},
+		{
+			"nombre":"refresco",
+			"descripcion":"Tiene de coca/fanta/sprite",
+			"precio":25,
+			"imagen":"https://tgrill.com.mx/tienda-en-linea/wp-content/uploads/2021/07/refresco-600-Mil.jpg"
+		},
+		{
+			"nombre":"Frape",
+			"descripcion":"Tiene de capuchino/chocolate/vainilla",
+			"precio":40,
+			"imagen":"https://cdn.elcocinerocasero.com/imagen/receta/1000/2022-07-28-11-15-26/cafe-frappe.jpeg"
+		},
+		{
+			"nombre":"quesadillas",
+			"descripcion":"Tiene queso",
+			"precio":70,
+			"imagen":"https://www.vvsupremo.com/wp-content/uploads/2015/11/900X570_Two-Cheese-Quesadillas.jpg"
+		},
+		{
+			"nombre":"Lazana",
+			"descripcion":"Tiene queso,carne,tomato",
+			"precio":120,
+			"imagen":"https://assets.unileversolutions.com/recipes-v2/232080.jpg"
+		},
+		{
+			"nombre":"Gorditas c/u",
+			"descripcion":"Tienen de deshebrada/picadillo/chicharron",
+			"precio":16,
+			"imagen":"https://assets.unileversolutions.com/recipes-v2/239933.jpg"
+		},
+		{
+			"nombre":"hog dogs sencillos",
+			"descripcion":"Tiene salchicha,tomate,cebolla",
+			"precio":25,
+			"imagen":"https://img-global.cpcdn.com/recipes/18aa41b0550d6ad5/400x400cq70/photo.jpg"
+		},
+		{
+			"nombre":"Agua",
+			"descripcion":"Tiene agua",
+			"precio":18,
+			"imagen":"https://tofuu.getjusto.com/orioneat-prod/QABWdZhuLhJMHcHoL-AGUA%20EMBOTELLADA.jpg"
+		},
+		{
+			"nombre":"Helados",
+			"descripcion":"Tienen de Chocolate/Vainilla/Fresa",
+			"precio":45,
+			"imagen":"https://upload.wikimedia.org/wikipedia/commons/3/31/Ice_Cream_dessert_02.jpg"
+		},
+		{
+			"nombre":"Galletas",
+			"descripcion":"Tienen de Chocolate",
+			"precio":35,
+			"imagen":"https://recetasdecocina.elmundo.es/wp-content/uploads/2022/11/galletas-de-chocolate-receta-facil.jpg"
+		},
+		{
+			"nombre":"Cafe",
+			"descripcion":"Tienen de Capuchino/Moka",
+			"precio":28,
+			"imagen":"https://s1.eestatic.com/2017/02/13/cocinillas/cocinillas_193495389_116293002_1024x576.jpg"
+		}
+	]
+}
