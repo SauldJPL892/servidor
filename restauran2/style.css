@@ -1,0 +1,70 @@
+body{
+	background-image: linear-gradient(to right, rgb(78, 12, 67), rgb(47, 8, 83),rgb(10, 1, 83), rgb(11, 6, 41));
+}
+ .center{
+ 	display: block;
+ 	margin: auto;
+ 	margin-left: auto;
+ 	width: 50%;
+    width: 500px;
+}
+titulo{
+	font-family: "Gunmetal", sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+table {
+	margin-left: 200px;
+	background-color: black;
+	text-align: center;
+	color: white;
+	width: 700px;
+}
+th{
+	color: black;
+}
+Hamburgesa{
+	color: orange;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	color: rgb(59, 105, 255);
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-weight: bold;
+}
+p{
+	color: rgb(77, 133, 114);
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+ul.sangria{
+	text-indent: 480px;
+	size: 800px;
+}
+a{
+	font-weight: bold;
+	color: rgba(255, 255, 255, 0.555);
+}
+p.TTT{
+	color: rgb(17, 94, 1);
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+}
+tr, td{
+	text-align: left;
+	padding: 8px;
+}
+th{
+	background-color: blue;
+}
+tr:nth-child(even){
+	background-color: black;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
